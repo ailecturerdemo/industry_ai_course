@@ -1,2 +1,2 @@
 # industry_ai_course
-store the sensor data and Notebook
+This is my first industry AI course project. 
